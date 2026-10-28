@@ -1,16 +1,36 @@
-## Hi there 👋
+### Hi there
+## This is XYZ!
 
-<!--
-**dummy-acc1-atty/dummy-acc1-atty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me**
 
-Here are some ideas to get you started:
+THis is a dummy github profile, dummy read me keajfakdjfbkajf.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects**
+|Name|Link|
+|--|--|
+|Demo1|www.xyz.com|
+|Demo2|www.abc.com|
+
+---
+
+<image src="https://static.vecteezy.com/system/resources/thumbnails/073/834/013/small_2x/nature-background-nature-wallpaper-serene-alpine-lake-nestled-amongst-evergreen-forests-with-majestic-mountains-in-the-background-photo.jpg" width=200px> </image>
+
+---
+**Code**
+
+    def demo():
+      conquer()
+
+---
+>>I love to conquer.
+
+*Lists*
+1. One
+2. Two
+3. Three
+
+___
+
+This is a line </br> Hello World
+
+
