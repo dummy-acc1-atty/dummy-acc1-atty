@@ -1,28 +1,35 @@
 ### Hi there!
-## This is XYZ!
-**About Me**
+## This is XYZ
 
-I'm a passionate asfbisdjbisbgsjdbgkjsdg.
+**About** 
+
+This is a ajdbksdbgksdbgs.
 
 **Projects**
 |Name|Link|
 |--|--|
 |Demo 1|www.abc.com|
-|Demo 2|www.abcd.com|
+|Demo 2|www.abc.com|
+
+    def run()
+      conquer()
+
+*HTML Elements*
+<ol>
+  <li>One</li>
+  <li>Two</li>
+  <li>Three</li>
+</ol>
 
 ---
 
-<image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYMuYhD9dmUGwB9armP--ZdYWYfIcncLzGUGaD7QaaQ&s"></image>
+<image src="www.abc.com" alt="Image"></image>
 
-<ol>
-  <li>Demo 1</li>
-  <li>Demo 2</li>
-  <li>Demo 3</li>
-</ol>
+---
 
-**Code**
+> Lets Conquer
 
-    def dummy()
-      conquer()
-
->Lets Build
+**List**
+1. One
+2. Two
+3. Three
